@@ -6,11 +6,20 @@
 <br>
 </div>
 
-### Contents:
+### Conteudo:
   - [Criador 👨🏽‍💻](#criador-)
+  - [Ferramentas utilizadas 🚀](#app-)
+  - [Referências 🤖](#referencias-)
 
-
-## Categories
+## Categorias
 
 #### Criador 👨🏽‍💻
 - [Nicolas Souza](https://github.com/Nicks-Souza)
+
+#### app 🚀
+- [Sts]
+- [https://start.spring.io/]
+
+#### Referências 🤖
+-[Aulas do Albertão (O melhor que temos)]
+
