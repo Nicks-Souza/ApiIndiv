@@ -35,4 +35,4 @@
 - Get all: localhost:8080/livro
 - Get One: localhost:8080/livro/2
 - delete: localhost:8080/livro/2
-- -Put: localhost:8080/livro/2
+- Put: localhost:8080/livro/2
