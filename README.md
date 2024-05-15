@@ -9,7 +9,7 @@
 <br>
 </div>
 
-### <img src="https://media3.giphy.com/media/KCpObMwXFL4FszmTt4/200w.gif?cid=6c09b952ip5tec8yhtvd55y0197vrmaqbozzlx46bk1dorsx&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50"> Conteudo:
+### <img src="https://i.gifer.com/origin/c8/c8d6207b2e896afea94bfa3d4f6dbda1_w200.gif" width="50" > Conteudo:
   - [Criador 👨🏽‍💻](#criador-)
   - [Ferramentas utilizadas 🚀](#app-)
   - [Referências 🤖](#referencias-)
