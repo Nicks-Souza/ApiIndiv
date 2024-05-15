@@ -9,9 +9,9 @@
 
 
 ### <img src="https://i.gifer.com/origin/c8/c8d6207b2e896afea94bfa3d4f6dbda1_w200.gif" width="50" > Conteudo:
-  - [Criador 👨🏽‍💻](#criador-)
+  - [Criador 👨🏽‍💻](#Criador-)
   - [Ferramentas utilizadas 🚀](#app-)
-  - [Referências 🤖](#referencias-)
+  - [Referências 🤖](#Referencias-)
   - [Endpoints 🔋](#endpoints-)
 
     
