@@ -19,10 +19,10 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Criador 👨🏽‍💻
 - [Nicolas Souza](https://github.com/Nicks-Souza)
 
-#### <img src="https://i.gifer.com/origin/74/7494f20d3c4fc0fb9273a13151e6d4e1_w200.gif" width="50"> app 🚀
+#### <img src="https://media.tenor.com/BQRVp7Gd9ngAAAAi/thedigitalmoney-rocket.gif" width="50"> app 🚀
 - [Sts]
 - [https://start.spring.io/]
 
-#### <img src="https://i.gifer.com/embedded/download/Uond.gif" width="50"> Referencias 🤖
+#### <img src="https://media2.giphy.com/media/S587HQ5XV2TTKvdm49/200w.gif?cid=6c09b9521244v41rici1nyblmmsyny39yb61c7t7zux8dla8&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50"> Referencias 🤖
 -[Aulas do Albertão (O melhor que temos)]
 
