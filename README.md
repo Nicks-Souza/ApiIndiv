@@ -20,6 +20,6 @@
 - [Sts]
 - [https://start.spring.io/]
 
-#### Referências 🤖
+#### Referencias 🤖
 -[Aulas do Albertão (O melhor que temos)]
 
