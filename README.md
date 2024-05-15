@@ -12,7 +12,7 @@
   - [Criador 👨🏽‍💻](#criador-)
   - [Ferramentas utilizadas 🚀](#app-)
   - [Referências 🤖](#referencias-)
-  - [Endpoints 🤖](#endpoints-)
+  - [Endpoints 🔋](#endpoints-)
 
     
 
