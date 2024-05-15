@@ -1,7 +1,7 @@
 <h1 align="center">Trabalho Individual Api</h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://twitter.com/Nicolas15152941" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href="https://twitter.com/Nicolas15152941" ><img src="https://img.shields.io/twitter/follow/Nicolas15152941.svg?style=social" /> </a>
 <a href="https://twitter.com/Nicolas15152941" ><img src="https://img.shields.io/linkedin/follow/abhisheknaiidu.svg?style=social" /> </a>
 <br>
 </div>
