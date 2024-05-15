@@ -16,13 +16,13 @@
 
 ## Categorias
 
-#### Criador 👨🏽‍💻
+#### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Criador 👨🏽‍💻
 - [Nicolas Souza](https://github.com/Nicks-Souza)
 
-#### app 🚀
+#### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> app 🚀
 - [Sts]
 - [https://start.spring.io/]
 
-#### Referencias 🤖
+#### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Referencias 🤖
 -[Aulas do Albertão (O melhor que temos)]
 
