@@ -9,20 +9,20 @@
 <br>
 </div>
 
-### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Conteudo:
+### <img src="https://media3.giphy.com/media/KCpObMwXFL4FszmTt4/200w.gif?cid=6c09b952ip5tec8yhtvd55y0197vrmaqbozzlx46bk1dorsx&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50"> Conteudo:
   - [Criador 👨🏽‍💻](#criador-)
   - [Ferramentas utilizadas 🚀](#app-)
   - [Referências 🤖](#referencias-)
 
 ## Categorias
 
-#### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Criador 👨🏽‍💻
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Criador 👨🏽‍💻
 - [Nicolas Souza](https://github.com/Nicks-Souza)
 
-#### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> app 🚀
+#### <img src="https://i.gifer.com/origin/74/7494f20d3c4fc0fb9273a13151e6d4e1_w200.gif" width="50"> app 🚀
 - [Sts]
 - [https://start.spring.io/]
 
-#### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Referencias 🤖
+#### <img src="https://i.gifer.com/embedded/download/Uond.gif" width="50"> Referencias 🤖
 -[Aulas do Albertão (O melhor que temos)]
 
