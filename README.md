@@ -1,6 +1,4 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Trabalho Individual Api <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
-
-<img align='right' src="https://mimeti.co/wp-content/uploads/2015/01/gif-technologies-API.gif" width="230">
 <div align="center">
   
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -9,12 +7,17 @@
 <br>
 </div>
 
+
 ### <img src="https://i.gifer.com/origin/c8/c8d6207b2e896afea94bfa3d4f6dbda1_w200.gif" width="50" > Conteudo:
   - [Criador 👨🏽‍💻](#criador-)
   - [Ferramentas utilizadas 🚀](#app-)
   - [Referências 🤖](#referencias-)
 
+    
+
 ## Categorias
+
+<img align='right' src="https://mimeti.co/wp-content/uploads/2015/01/gif-technologies-API.gif" width="230">
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Criador 👨🏽‍💻
 - [Nicolas Souza](https://github.com/Nicks-Souza)
