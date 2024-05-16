@@ -23,12 +23,6 @@ public class Livro {
 	@Column(nullable = false, length = 20)
 	private String titulo;
 
-	@NotBlank(message = "Preencha as informacoes")
-	@Size(max = 30)
-	@Column(nullable = false, length = 30)
-	private String informacoes;
-
-
 	@Embedded
 	private InformacaoPubli informacaoPubli;
 
@@ -46,14 +40,6 @@ public class Livro {
 
 	public void setTitulo(String titulo) {
 		this.titulo = titulo;
-	}
-
-	public String getInformacoes() {
-		return informacoes;
-	}
-
-	public void setInformacoes(String informacoes) {
-		this.informacoes = informacoes;
 	}
 
 	public InformacaoPubli getInformacaoPubli() {
