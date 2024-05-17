@@ -26,6 +26,10 @@
 #### <img src="https://media.tenor.com/BQRVp7Gd9ngAAAAi/thedigitalmoney-rocket.gif" width="50"> app 🚀
 - [Sts]
 - [https://start.spring.io/]
+- Java JPA
+- Hibernate
+- Maven
+- Banco H2 SQL
 
 #### <img src="https://media2.giphy.com/media/S587HQ5XV2TTKvdm49/200w.gif?cid=6c09b9521244v41rici1nyblmmsyny39yb61c7t7zux8dla8&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50"> Referencias 🤖
 -[Aulas do Albertão (O melhor que temos)]
@@ -33,6 +37,8 @@
 #### <img src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2017/08/Bateria-01.gif" width="50"> endpoints 🔋
 - Post: localhost:8080/livro
 - Get all: localhost:8080/livro
-- Get One: localhost:8080/livro/2
-- delete: localhost:8080/livro/2
-- Put: localhost:8080/livro/2
+- FindByID: localhost:8080/livro/{id}
+- delete: localhost:8080/livro/{id}
+- Put: localhost:8080/livro/{id}
+    
+- Leia-se: altere {id} pelo número do id que você quer mexer
